@@ -11,3 +11,8 @@
 * 66 - Setting Up the Repo
 * 67 - Deleting Documents
 * 68 - Update Documents
+* 69 - The Mongoose ORM
+* 70 - Setting Up Mongoose
+* 71 - Validators, Types and Defaults
+* 72 - Installing Postman
+* 73 - Resource Create Endpoint - Post /todos
