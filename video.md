@@ -8,3 +8,5 @@
 * 63 - Connecting to Mongo and Writing Data
 * 64 - The ObjectId
 * 65 - Fetching Data
+* 66 - Setting Up the Repo
+* 67 - Deleting Documents
