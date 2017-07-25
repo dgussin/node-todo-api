@@ -7,3 +7,4 @@
 * 62 - Building a NoSQL Vocabulary
 * 63 - Connecting to Mongo and Writing Data
 * 64 - The ObjectId
+* 65 - Fetching Data
