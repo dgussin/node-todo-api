@@ -16,3 +16,4 @@
 * 71 - Validators, Types and Defaults
 * 72 - Installing Postman
 * 73 - Resource Create Endpoint - Post /todos
+* 74 - Testing POST /todos
