@@ -17,3 +17,4 @@
 * 72 - Installing Postman
 * 73 - Resource Create Endpoint - Post /todos
 * 74 - Testing POST /todos
+* 75 - List Resouce - GET /todos
