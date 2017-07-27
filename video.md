@@ -21,3 +21,4 @@
 * 76 - Testing GET /todos
 * 77 - Mongoose Queries and ID Validation
 * 78 - Getting an Individual Resource - GET /todos/:id
+* 69 - Testing GET /todos/:id
