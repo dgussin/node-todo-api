@@ -20,3 +20,4 @@
 * 75 - List Resouce - GET /todos
 * 76 - Testing GET /todos
 * 77 - Mongoose Queries and ID Validation
+* 78 - Getting an Individual Resource - GET /todos/:id
