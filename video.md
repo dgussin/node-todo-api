@@ -24,3 +24,4 @@
 * 79 - Testing GET /todos/:id
 * 80 - Deploy API to Heroku
 * 81 - Postman Environments
+* 82 - Delete a Resource - Delete /todos/:id
