@@ -27,3 +27,4 @@
 * 82 - Delete a Resource - Delete /todos/:id
 * 83 - Testing DELETE /todos/:id
 * 84 - Updating a Resource - PATCH /todos/:id
+* 85 - Testing PATCH /todos/:id
