@@ -29,3 +29,7 @@
 * 84 - Updating a Resource - PATCH /todos/:id
 * 85 - Testing PATCH /todos/:id
 * 86 - Create a Test Database
+
+## Section 8: Security and Authentication
+* 87 - Section Into
+* 88 - Setting Up the User Model
