@@ -33,3 +33,5 @@
 ## Section 8: Security and Authentication
 * 87 - Section Into
 * 88 - Setting Up the User Model
+* 89 - JWTs and Hashing
+* 90 - Generating Auth Tokens and Setting Headers
