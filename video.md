@@ -37,3 +37,5 @@
 * 90 - Generating Auth Tokens and Setting Headers
 * 91 - Private Routes and Auth Middleware
 * 92 - Hashing Passwords
+* 93 - Seeding Test Database with Users
+* 94 - Testing POST /users and GET /users/me
