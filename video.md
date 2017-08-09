@@ -35,3 +35,4 @@
 * 88 - Setting Up the User Model
 * 89 - JWTs and Hashing
 * 90 - Generating Auth Tokens and Setting Headers
+* 91 - Private Routes and Auth Middleware
