@@ -36,3 +36,4 @@
 * 89 - JWTs and Hashing
 * 90 - Generating Auth Tokens and Setting Headers
 * 91 - Private Routes and Auth Middleware
+* 92 - Hashing Passwords
